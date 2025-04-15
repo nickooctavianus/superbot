@@ -1,5 +1,6 @@
 {
-  "active": true,
-  "vpn_check": true,
-  "maintenance_message": "Server is under maintenance"
+  "serverActive": true,
+  "checkVpn": true,
+  "checkApps": true,
+  "maintenanceMsg": "Server is under maintenance"
 }
