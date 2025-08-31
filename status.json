@@ -1,6 +1,6 @@
 {
-  "serverActive": true,
+  "serverActive": false,
   "checkVpn": true,
   "checkApps": false,
-  "maintenanceMsg": "Server is under maintenance"
+  "maintenanceMsg": "Please buy the license!"
 }
