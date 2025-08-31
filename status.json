@@ -1,5 +1,5 @@
 {
-  "serverActive": false,
+  "serverActive": true,
   "checkVpn": true,
   "checkApps": false,
   "maintenanceMsg": "Server is under maintenance"
