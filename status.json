@@ -1,5 +1,5 @@
 {
-  "serverActive": false,
+  "serverActive": true,
   "checkVpn": true,
   "checkApps": false,
   "maintenanceMsg": "Use the paid version of the mod, this mod is only for urgent needs."
