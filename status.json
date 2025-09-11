@@ -1,6 +1,6 @@
 {
   "serverActive": false,
   "checkVpn": true,
-  "checkApps": false,
+  "checkApps": true,
   "maintenanceMsg": "Use the paid version of the mod, this mod is only for urgent needs."
 }
