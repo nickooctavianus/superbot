@@ -1,6 +1,8 @@
 {
-  "serverActive": false,
+  "serverActive": true,
   "checkVpn": true,
-  "checkApps": true,
-  "maintenanceMsg": "Use the paid version of the mod, this mod is only for urgent needs."
+  "checkApps": false,
+  "maintenanceMsg": "Server is under maintenance.",
+  "detectVpnMsg": "Please turn off VPN!",
+  "detectAppsMsg": "Please uninstall the reversal tool!"
 }
